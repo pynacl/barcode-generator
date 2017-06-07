@@ -417,6 +417,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 23WRQY7WGN;
 				INFOPLIST_FILE = BarcodeReader/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jakelli.BarcodeReader;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -430,6 +431,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 23WRQY7WGN;
 				INFOPLIST_FILE = BarcodeReader/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jakelli.BarcodeReader;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -510,6 +512,7 @@
 				14890DE51EDDCACF00076362 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		14890DE61EDDCACF00076362 /* Build configuration list for PBXNativeTarget "BarcodeReaderTests" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +521,7 @@
 				14890DE81EDDCACF00076362 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		14890DE91EDDCACF00076362 /* Build configuration list for PBXNativeTarget "BarcodeReaderUITests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +530,7 @@
 				14890DEB1EDDCACF00076362 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
